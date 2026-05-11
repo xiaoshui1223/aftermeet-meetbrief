@@ -27,6 +27,7 @@ It is built for meetings where the screen matters: courses, live sessions, produ
 - 思维导图式结构梳理
 - 会议概览与核心结论
 - 重点画面、投屏演示和关键截图
+- 截图对应讲解、概念解释和操作步骤
 - 核心观点拆解与知识卡片
 - 嘉宾观点与金句整理
 - 行动指南与后续待办

@@ -11,10 +11,11 @@
 7. Ask the user once to accept the proposed plan or provide adjustments.
 8. After confirmation, run automatically without step-by-step interruption.
 9. Capture or select key screenshots.
-10. Generate mind map structure.
-11. Generate structured document content.
-12. Create or update the Feishu document.
-13. Ask once whether to clean, keep, or revise task materials.
+10. Align screenshots with transcript/subtitle windows around the same timestamps.
+11. Generate mind map structure.
+12. Generate structured document content.
+13. Create or update the Feishu document.
+14. Ask once whether to clean, keep, or revise task materials.
 
 ## Low-Intervention Experience
 

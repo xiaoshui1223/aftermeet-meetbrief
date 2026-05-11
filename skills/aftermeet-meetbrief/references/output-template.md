@@ -64,17 +64,19 @@ Screenshots must be tied to meaning:
 - Which viewpoint or step does it support?
 - Why is it worth keeping?
 - Who was speaking or what context was happening around this moment?
-- What key information was said around this screenshot?
+- What key information was said around this screenshot, based on the transcript/subtitles around the same timestamp?
 - If it is a tutorial, demo, or tool operation, what are the concrete steps?
 
 Do not dump images without context. Every important screenshot should have a short but substantive explanation, so users can understand what was taught or decided without rewatching the meeting.
+
+When a screenshot is selected, use its timestamp to read the surrounding transcript/subtitle window. Digest that spoken content into the document together with the image. For example, if the screen shows "Skills and MCP", the related block should explain what the speaker said about Skills, what MCP is, how they differ, and what step or concept the image supports. Do not keep only the image.
 
 For tutorial/demo sections, use this pattern when possible:
 
 ```text
 Screenshot / step title
 - Context: who is speaking and what is being demonstrated
-- Key point: what the speaker wants users to understand
+- Transcript-backed key point: what the speaker explained around this screen
 - Operation steps: 1-3 concrete steps if available
 - Notes: risks, prerequisites, or common mistakes
 ```

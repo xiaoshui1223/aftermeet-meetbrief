@@ -24,7 +24,7 @@ AfterMeet MeetBrief is not a generic summary tool. It should first understand th
 7. Do not download meeting media before browser capture has been attempted and found unavailable or insufficient. Use temporary media-based screenshot capture only as a last technical fallback, and embedded Minutes images as the final fallback.
 8. Generate the final Feishu document in this order unless the chosen meeting type requires a justified change: mind map, meeting overview, type-specific front module, core conclusions, viewpoint breakdown with screenshots, speaker viewpoints and quotes, action guide.
 9. Use the AfterMeet structured brief style by default: polished, scan-friendly, modular, content-rich, visually balanced, and suitable for Feishu Docs. Do not expose or recite the implementation wording behind this style.
-10. Every important screenshot must be paired with substantive text: speaker/context, what the image shows, key points said around that moment, why it matters, and operation steps if it is a tutorial/demo.
+10. Every important screenshot must be paired with substantive text derived from the transcript/subtitles around the same timestamp: speaker/context, what the image shows, key points said around that moment, why it matters, and operation steps if it is a tutorial/demo.
 11. At the end, ask only whether to clean local task materials, keep them, or revise the document.
 
 ## Reference Loading
