@@ -1,0 +1,7 @@
+interface:
+  display_name: "AfterMeet MeetBrief｜会后有数"
+  short_description: "把飞书会议沉淀成结构化图文会后文档。"
+  brand_color: "#2563EB"
+  default_prompt: "使用 $aftermeet-meetbrief（AfterMeet MeetBrief｜会后有数）把这个飞书妙记链接整理成结构化图文会后文档。"
+policy:
+  allow_implicit_invocation: true
